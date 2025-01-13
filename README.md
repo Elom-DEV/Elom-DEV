@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.pexels.com/photos/2004161/pexels-photo-2004161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Banner" width="1200" height="300" />
+  <img src="back-gif.gif"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Elotmani Hicham</h1>
