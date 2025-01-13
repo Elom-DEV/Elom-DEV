@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="back-gif.gif"/>
+  <img src="hello world cover github.gif"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Elotmani Hicham</h1>
-<h3 align="center">Future Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm ELOTMANI HICHAM </h1>
+<h3 align="center">"Future Software Engineer"</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elom-dev&label=Profile%20views&color=0e75b6&style=flat" alt="elom-dev" /> </p>
