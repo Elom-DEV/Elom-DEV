@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java & Seo**
 
-- 📫 How to reach me **elotmani.dev@gmail.com**
+- 📫 How to reach me **contact@elotmani-hicham.com**
 
 - ⚡ Fun fact **I am so funny**
 
