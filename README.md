@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elom-dev&label=Profile%20views&color=0e75b6&style=flat" alt="elom-dev" /> </p>
 
-- 🌱 I’m currently learning **Java & Seo**
+- 🌱 I’m currently learning **Java Sprinboot & React js**
 
 - 📫 How to reach me **contact@elotmani-hicham.com**
 
