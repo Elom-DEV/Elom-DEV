@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java Sprinboot & React js**
 
-- 📫 How to reach me **contact@elotmani-hicham.com**
+- 📫 How to reach me **contact@elotmani.pro**
 
 - ⚡ Fun fact **I am so funny**
 
